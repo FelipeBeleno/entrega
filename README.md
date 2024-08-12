@@ -161,4 +161,4 @@ La aplicación cuenta con documentación completa de la API utilizando Swagger, 
       - Frontend: [https://client-adm.vercel.app/]
       - Backend: [https://server-adm-production.up.railway.app/doc], [https://server-adm-production.up.railway.app/api/v1]
 
-- Nota: **El proyecto pasara a ser privado una vez se revise el mismo. Se adjuntara las variables de entorno en este repositorio para su uso en las aplicaciones**
+- Nota: **El proyecto pasara a ser privado una vez se revise el mismo. Se adjuntara las variables de entorno en este repositorio para su uso en las aplicaciones.**
